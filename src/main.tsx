@@ -4,7 +4,7 @@ import App from './App.tsx';
 import './index.css';
 import { injectSpeedInsights } from '@vercel/speed-insights';
 
-import { Import } from 'lucide-react';
+import { import } from 'lucide-react';
 injectSpeedInsights();
 
 createRoot(document.getElementById('root')!).render(
