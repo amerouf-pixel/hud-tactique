@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#090D16"/>
+  <rect x="24" y="24" width="464" height="464" rx="104" stroke="#06B6D4" stroke-width="8" stroke-dasharray="16 12" opacity="0.6"/>
+  <path d="M160 210C160 170 190 140 256 140C322 140 352 170 352 210C352 270 310 372 280 372C264 372 260 350 256 350C252 350 248 372 232 372C202 372 160 270 160 210Z" fill="#0E1E38" stroke="#06B6D4" stroke-width="12"/>
+  <!-- D-pad -->
+  <path d="M210 210H190V230H210V250H230V230H250V210H230V190H210V210Z" fill="#22D3EE"/>
+  <!-- Buttons -->
+  <circle cx="300" cy="210" r="10" fill="#F43F5E"/>
+  <circle cx="320" cy="230" r="10" fill="#EAB308"/>
+  <circle cx="280" cy="230" r="10" fill="#3B82F6"/>
+  <circle cx="300" cy="250" r="10" fill="#10B981"/>
+  <!-- Center power accent -->
+  <circle cx="256" cy="285" r="8" fill="#38BDF8"/>
+  <path d="M140 380 L372 380" stroke="#38BDF8" stroke-width="4" stroke-linecap="round" opacity="0.4"/>
+</svg>

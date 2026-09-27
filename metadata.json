@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Companion",
+  "description": "Application compagnon de jeu pour le suivi de missions, collectibles, véhicules, objectifs, notes tactiques et statistiques de progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
